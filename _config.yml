@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4194415
+  brandStrength: 0.17884
+  lightness: 0.3163265
+  brandColors:
+    - '#201D18'
+    - '#657F90'
+    - '#384D6C'
+    - '#EADFC5'
+    - '#5B4228'
+  rhythmicContrast: 0.4119226
+typography_spectrum: 0.8125672
+name: Daniel Journal
