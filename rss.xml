@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Daniel Journal]]></title>
         <description><![CDATA[Daniel Journal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daniel-journal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 15:24:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 15:25:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daniel-journal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First post]]></title>
+            <description><![CDATA[<article><h1>First post</h1><p>The ridiculous thing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/304330ad166b252388466389910fec4690b94977.jpg"></article>]]></description>
+            <link>https://thegrid.ai/daniel-journal/first-post/index.html</link>
+            <guid isPermaLink="false">a8ada45d-b768-494a-aa9e-949846b1e0a4</guid>
+            <pubDate>Tue, 29 Dec 2015 15:24:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Bold Few Traders Earn Billions Flouting Rivals]]></title>
-            <description><![CDATA[<article><h1>A Bold Few Traders Earn Billions Flouting Rivals</h1><p>News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services. The investors that did the best in 2015 are those that defied conventional wisdom Most Wall Street traders early this year predicted oil prices would rebound through 2015 and buoy the drillers and equipment providers with close ties to crude.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/025397c7e9bbe0920926df3e825627f50710138d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>A Bold Few Traders Earn Billions Flouting Rivals</h1><p>This is remarkably sad. Hedge fund managers have the sweetest gig in the world. They avoid personal losses when they under-perform, yet make billions when they out-perform. This comes entirely at the expense of their investors, who perceive their hedge fund investments as "out-performing" the broader market index. The stark reality is that those investors would likely have done better had they simply invested in a low-cost, index fund, such as those available at Vanguard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/025397c7e9bbe0920926df3e825627f50710138d.jpg"></article>]]></description>
             <link>http://www.wsj.com/articles/a-bold-few-traders-earn-billions-flouting-rivals-1451348703</link>
             <guid isPermaLink="false">4fbdc0dd-5771-413c-a100-193292f35503</guid>
             <pubDate>Tue, 29 Dec 2015 15:24:42 GMT</pubDate>
